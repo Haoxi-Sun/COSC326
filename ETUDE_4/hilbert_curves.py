@@ -1,4 +1,4 @@
-# Elsie Sun 4468203
+# Elsie Sun
 #
 # learn how to update the shape of widgets drawn on the Canvas from:
 # https://stackoverflow.com/questions/22835289/how-to-get-tkinter-canvas-to-dynamically-resize-to-window-width/22835732
