@@ -1,3 +1,12 @@
+#Etude 1 - Syllable Slam
+
+#Elsie Sun 4468203
+#Hugh McLeod-Jones 4668077
+#Ella Ji 2854080
+#James Pettitt 4713804
+
+
+
 # Method which returns the number of syllables in a word
 def count_syllables(line):
     vowelCount = 0

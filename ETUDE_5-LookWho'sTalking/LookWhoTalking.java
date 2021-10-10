@@ -1,3 +1,9 @@
+
+/**
+ * Etude 5 Look Who's Talking
+ * @author Ella Ji 2854080 & Elsie Sun 4468203 
+ */
+
 import java.util.*;
 
 public class LookWhoTalking{

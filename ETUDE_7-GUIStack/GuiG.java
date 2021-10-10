@@ -158,12 +158,11 @@ public class GuiG extends JFrame{
     }
 }
 class JFrame2 extends JFrame{
-   
     public JFrame2(){
         setTitle("Tips");
         setSize(600,200);
         setVisible(true);
-        //setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         getContentPane().setLayout(null);
 
@@ -191,7 +190,6 @@ class JFrame2 extends JFrame{
         getContentPane().add(tipsStack3);
         getContentPane().add(tipsQueue1);
         getContentPane().add(tipsQueue2);
-        getContentPane().add(tipsQueue3);
-        
+        getContentPane().add(tipsQueue3);        
     }
 }
